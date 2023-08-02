@@ -1,0 +1,20 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, TcknService"
+    ],
+    "references": [
+      "C:\\Users\\ILHAN\\Source\\Repos\\CandidateApp\\CandidateApp\\bin\\Debug\\net6.0\\CandidateApp.Domain.dll"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "Specified"
+  }
+}
